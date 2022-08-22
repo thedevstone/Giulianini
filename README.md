@@ -1,5 +1,8 @@
 # [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website] Hi I'm Luca
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+[<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][devto]
+
 
 ## I'm a Software Engineer
 Master's degree (cum laude) in Computer Science and Engineering at the University of Bologna.
@@ -45,4 +48,5 @@ I love **designing** and **developing** new ideas that are highly **usable**, **
 
 <!-- Links -->
 [youtube]: https://www.youtube.com/
-[website]: https://www.google.com/
+[website]: https://www.lucagiulianini.com/
+[devto]: https://dev.to/
