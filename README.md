@@ -13,8 +13,8 @@ I love **designing** and **developing** new ideas that are highly **usable**, **
 ---
 
 ### Paradigms
+- **Functional:** Take control of your code, make it reusable and remove boilerplate. I love Scala ❤️
 - **Composition(OOP):** Appreciate more higher level, OO languages (Java/Scala/C#)
-- **Functional:** Take control of your code, make it reusable and remove boilerplate. So I love Scala ❤️
 - **Concurrent:** Actors and Agents base languages/frameworks (Go/Scala/Akka)
 ### Machine Learning
 - **Python:** *Pandas*, *Numpy*, *SkLearn*, *Matplotlib*
