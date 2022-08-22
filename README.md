@@ -18,7 +18,7 @@ I love **designing** and **developing** new ideas that are highly **usable**, **
 - **Concurrent:** Actors and Agents base languages/frameworks (Go/Scala/Akka)
 ### Machine Learning
 - **Python:** *Pandas*, *Numpy*, *SkLearn*, *Matplotlib*
-- **Frameworks:** *OpenCV*, *Keras*, *PyTorch* | *Spacy*, *NLTK*
+- **Frameworks:** *OpenCV*, *Keras*, *PyTorch*, *Spacy*, *NLTK*
 - **Computer Vision:** Feature Extraction/Stitching/CNN/Segmentation/LSTM/Autoencoders
 - **Text Mining:** Word2Vec/Doc2Vec/Tf-Idf/Transformers/Bert/Sentiment Analysis
 ### IOT and Home Automations
